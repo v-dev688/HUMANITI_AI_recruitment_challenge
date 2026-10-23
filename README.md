@@ -1,3 +1,5 @@
+Suggestion : use Gemini latest flash models for better predictions (though Token limit is a problem)
+
 # Audio-Visual Quality Audit Engine
 
 An automated multimodal evaluation engine for online children's chess coaching sessions. The system evaluates both dialogue transcripts (`.vtt`) and full session recordings (`.mp4`, up to 500 MB+) using Groq LLMs and computer vision keyframe extraction, outputting standardized scores, diagnostics, and tiered classification pools.
