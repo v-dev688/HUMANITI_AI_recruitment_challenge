@@ -1,58 +1,6 @@
-# Environment variables and secrets
-.env
-.env.*
-!.env.example
-
-# Virtual Environments
 .venv/
-venv/
-ENV/
-env/
-
-# Class Recordings & Video/Audio Data
-class recordings_/
-*class recordings_*
-*.mp4
-*.webm
-*.mov
-*.m4v
-*.mkv
-*.wav
-*.mp3
-
-# Streamlit temporary / local storage
-temp_*
-*.tmp
-
-# Python artifacts
 __pycache__/
-*.py[cod]
-*$py.class
-*.pyd
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Jupyter & IDEs
-.ipynb_checkpoints
-.vscode/
-.idea/
-*.swp
-*~
-
-# OS generated files
-.DS_Store
-Thumbs.db~
+*.pyc
+~$*
+class recordings_/
+Trials and Erros-no need to look/
